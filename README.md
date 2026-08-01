@@ -1,3 +1,6 @@
+<img width="1024" height="254" alt="Image" src="https://github.com/user-attachments/assets/7571affb-8b70-4472-bddc-fc3bed42d023" />
+
+
 # Hola, soy Noelia Orsini 👋
 
 <p align="left">
