@@ -1,5 +1,9 @@
 # Hola, soy Noelia Orsini 👋
-### Desarrolladora Back-End | Abogada | Counselor
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=false&vCenter=true&width=650&lines=Desarrolladora+Back-End;Abogada+%26+Counselor;Automatizaci%C3%B3n+con+IA+%26+Human-in-the-Loop" alt="Typing SVG" />
+</p>
+
 *Uniendo la seguridad jurídica, la arquitectura de software y la comprensión de los procesos humanos para impulsar la transformación digital.*
 
 ---
