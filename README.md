@@ -67,6 +67,10 @@ Esa combinación define mi forma de construir software: sistemas donde la IA ace
   - [Oracle Cloud Infrastructure (OCI) Foundations](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A1B339F136DB8CC21B703804DF147BEBCD4253F28C584E96D51133A05F377AC9)
   - [Oracle Cloud AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24F420DB2DDDF5B47E24F7AB015CF25AD06341B4D065704E38AD999AAFB4CF83)
   - [Oracle Fusion AI Agent Studio](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4885A5A982590042CCE9255EEF6084ECCC773FE7812BCE86626C2525C835B9E3)
+    
+- **Certificaciones Oracle (2026):**
+  - [Oracle Cloud AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E62FBEA5CECEDC8876CE2BD9C607BBA14DE286BAA6E34ECE03D840AFD72F2478)
+
 
 - **Google Cloud & Workspace:** Formación en Generative AI Leader y BI. ([Ver perfil de Google Skills](https://www.skills.google/public_profiles/cc353279-04ab-44cf-b1df-64a89fb28450))
 - **Oracle & Emplea ONE:** Trayectoria y certificaciones en backend. ([Ver perfil Emplea ONE](https://app.aluracursos.com/emprega-one/profile/noeliaorsini))
